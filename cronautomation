@@ -1,5 +1,5 @@
-# cron job bash Script
-# Checks Every day by Root_user
+# cron job 
+# automation Script 
 
 0 0 * * * root  /root/Automation_potureddy/PotureddyHari/automation.sh
 
