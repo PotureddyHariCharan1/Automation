@@ -1,4 +1,8 @@
 # cron job 
 # automation Script 
 
-0 0 * * *   /root/Automation_potureddy/PotureddyHari/automa
+0 0 * * * root  /root/Automation_potureddy/PotureddyHari/automation.sh
+
+
+
+
