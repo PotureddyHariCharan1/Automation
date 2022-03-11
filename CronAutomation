@@ -1,6 +1,7 @@
 # cron job 
-# automation Script 
+# automation Script
 
-0 0 * * * root  /root/Automation_potureddy/PotureddyHari/automation.sh
+0 0 * * * root  /root/Automation_Project/PotureddyHari-httpd-logs-11032022-054019.tar >> /var/www/html/inventory.html
+
 
 
